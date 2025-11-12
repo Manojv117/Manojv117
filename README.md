@@ -6,7 +6,8 @@
 -->
 
 <p align="center">
-  <img src="./avatar.png" alt="Manoj's Avatar" width="160" style="border-radius:50%; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
+  <img src="![Uploading ChatGPT Image Jul 6, 2025, 08_42_20 PM.png…]()
+" alt="Manoj's Avatar" width="160" style="border-radius:50%; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
 </p>
 
 <h1 align="center" style="color:#EAEAEA;">Hi, I'm Manoj 👋</h1>
