@@ -55,6 +55,18 @@ With a continuous learning mindset and a deep curiosity for emerging technologie
 
 ---
 
+## 🎓 Certifications (Oracle University)
+
+### 🧠 Artificial Intelligence Fundamentals  
+🔗 [View Certificate](./certificates/eCertificate_oracle.pdf)
+
+### 🤖 Generative AI  
+🔗 [View Certificate](./certificates/eCertificate_genai.pdf)
+
+### 📊 Data Science  
+🔗 [View Certificate](./certificates/eCertificate_data_science.pdf)
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -72,4 +84,4 @@ With a continuous learning mindset and a deep curiosity for emerging technologie
 
 <p align="center">✨ “Learning never stops — every dataset has a story to tell.” ✨</p>
 
-< src="https://github.com/user-attachments/assets/376b8e47-0148-4ae8-a35a-3b88f0c2cb17" />
+
