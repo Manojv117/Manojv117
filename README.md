@@ -1,17 +1,17 @@
+My Portfolio
+
 <!--
   GitHub Profile README for Manoj
-  Dark Theme Version — matches illustrated avatar aesthetic
   Place this file in a repo named exactly as your GitHub username.
   Upload your profile image as avatar.png in the same repo.
 -->
 
 <p align="center">
-  <img src="![Uploading ChatGPT Image Jul 6, 2025, 08_42_20 PM.png…]()
-" alt="Manoj's Avatar" width="160" style="border-radius:50%; box-shadow: 0 0 10px rgba(255,255,255,0.2);" />
+  <img src="https://github.com/user-attachments/assets/376b8e47-0148-4ae8-a35a-3b88f0c2cb17" alt="Manoj's Avatar" width="160" style="border-radius:50%;" />
 </p>
 
-<h1 align="center" style="color:#EAEAEA;">Hi, I'm Manoj 👋</h1>
-<p align="center" style="color:#B0B0B0;">Data Enthusiast • AI & ML Learner • Passionate Developer</p>
+<h1 align="center">Hi, I'm Manoj 👋</h1>
+<p align="center">Data Enthusiast • AI & ML Learner • Passionate Developer</p>
 
 ---
 
@@ -23,7 +23,7 @@ With a continuous learning mindset and a deep curiosity for emerging technologie
 
 ---
 
-### 🧠 Areas of Interest  
+### 🧠 Areas of Interest
 
 <h4>Artificial Intelligence</h4>
 <p>Developing smart systems that enhance decision-making and efficiency.</p>
@@ -44,13 +44,13 @@ With a continuous learning mindset and a deep curiosity for emerging technologie
 
 ### 🧰 Skills & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-2D2D2D?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-1C1C1C?style=for-the-badge&logo=linux&logoColor=FCC624" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -58,23 +58,18 @@ With a continuous learning mindset and a deep curiosity for emerging technologie
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" alt="GitHub Streak" height="160" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
-- **GitHub:** [@yourusername](https://github.com/yourusername)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **GitHub:** Manojv117(https://github.com/Manojv117)   
+- **Email:** [manojvenkatesh228@gmail.com](mailto:manojvenkatesh228@gmail.com)
 
 ---
 
-<p align="center" style="color:#A0A0A0;">✨ “Learning never stops — every dataset has a story to tell.” ✨</p>
+<p align="center">✨ “Learning never stops — every dataset has a story to tell.” ✨</p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=grey&style=flat" alt="Profile views counter"/>
-</p>
+< src="https://github.com/user-attachments/assets/376b8e47-0148-4ae8-a35a-3b88f0c2cb17" />
