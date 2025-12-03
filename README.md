@@ -63,18 +63,7 @@ With a continuous learning mindset and a deep curiosity for emerging technologie
 ---
 
 
-### 🧰 Skills & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
 
 ## 🎓 Certifications (Oracle University)
 
@@ -87,15 +76,13 @@ With a continuous learning mindset and a deep curiosity for emerging technologie
 ### 📊 Data Science  
 🔗 [View Certificate](./certificates/eCertificate_data_science.pdf)
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manojv117&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojv117&theme=tokyonight&hide_border=true" height="160" />
 </p>
-
----
+-----
 
 ### 🌐 Connect with Me  
 - **GitHub:** Manojv117(https://github.com/Manojv117)   
