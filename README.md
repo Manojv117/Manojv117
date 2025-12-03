@@ -77,7 +77,7 @@ With a continuous learning mindset and a deep curiosity for emerging technologie
 🔗 [View Certificate](./certificates/eCertificate_data_science.pdf)
 
 
-
+---
 ### 🌐 Connect with Me  
 - **GitHub:** Manojv117(https://github.com/Manojv117)   
 - **Email:** [manojvenkatesh228@gmail.com](mailto:manojvenkatesh228@gmail.com)
