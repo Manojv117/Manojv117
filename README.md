@@ -22,25 +22,46 @@ I am driven by the goal of leveraging data-driven insights to build intelligent 
 With a continuous learning mindset and a deep curiosity for emerging technologies, I strive to enhance my skills and contribute meaningfully to the field of AI and data analytics.
 
 ---
+## 🧠 Areas of Interest
 
-### 🧠 Areas of Interest
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="60"/>
+      <h4>Artificial Intelligence</h4>
+      <p>Creating intelligent systems that improve decision-making.</p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/10864/10864860.png" width="60"/>
+      <h4>Machine Learning</h4>
+      <p>Building models that learn from data to generate insights.</p>
+    </td>
+  </tr>
 
-<h4>Artificial Intelligence</h4>
-<p>Developing smart systems that enhance decision-making and efficiency.</p>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/2871/2871399.png" width="60"/>
+      <h4>Deep Learning</h4>
+      <p>Using neural networks to power vision and language tasks.</p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/11676/11676001.png" width="60"/>
+      <h4>Generative AI</h4>
+      <p>Developing creative and generative AI-driven applications.</p>
+    </td>
+  </tr>
 
-<h4>Machine Learning</h4>
-<p>Creating models that learn from data to deliver meaningful outcomes.</p>
-
-<h4>Deep Learning</h4>
-<p>Leveraging neural networks to drive innovation in vision and language tasks.</p>
-
-<h4>Generative AI</h4>
-<p>Building creative solutions powered by cutting-edge AI technologies.</p>
-
-<h4>Data Science</h4>
-<p>Transforming data into insights that guide impactful decisions.</p>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" width="60"/>
+      <h4>Data Science</h4>
+      <p>Turning raw data into meaningful insights and solutions.</p>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 🧰 Skills & Tools
 
