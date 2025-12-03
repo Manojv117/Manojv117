@@ -76,13 +76,7 @@ With a continuous learning mindset and a deep curiosity for emerging technologie
 ### 📊 Data Science  
 🔗 [View Certificate](./certificates/eCertificate_data_science.pdf)
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manojv117&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojv117&theme=tokyonight&hide_border=true" height="160" />
-</p>
------
 
 ### 🌐 Connect with Me  
 - **GitHub:** Manojv117(https://github.com/Manojv117)   
